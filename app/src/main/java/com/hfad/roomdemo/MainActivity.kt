@@ -67,7 +67,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
 @Composable
 fun ScreenSetup(modifier: Modifier = Modifier, viewModel: MainViewModel) {
 
