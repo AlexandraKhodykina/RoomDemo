@@ -1,4 +1,7 @@
 package com.hfad.roomdemo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+import androidx.room.ColumnInfo
 
 @Entity(tableName = "products")
 class Product {
